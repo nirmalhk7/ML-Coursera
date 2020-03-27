@@ -1,3 +1,7 @@
+# [ML-Coursera]
+This repo contains my solutions of Machine Learning by Andrew Ng, which is available on Coursera. 
+Find the actual repo without my solutions [here](https://github.com/dibgerge/ml-coursera-python-assignments)
+___
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
 
